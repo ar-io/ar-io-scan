@@ -1,3 +1,7 @@
+<!-- prettier-ignore -->
+> [!CAUTION]
+> **This repository has been archived.** The AR.IO smart contracts have migrated from AO to Solana. All smart contract code now lives at [ar-io/ar-io-solana-contracts](https://github.com/ar-io/ar-io-solana-contracts).
+
 # AR.IO Scan
 
 AR.IO Scan is a web-based explorer and visualization tool specifically for the AR.IO Network on Arweave. It provides a user-friendly interface to explore the AR.IO process, module, token, and ArNS (Arweave Name Service) records.
